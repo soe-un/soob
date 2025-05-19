@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. tmp/SECON 2025, eGISEC 2025.md",
+                "file": "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Ch 3..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SECON 2025, eGISEC 2025"
+              "title": "Ch 3."
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. tmp/SECON 2025, eGISEC 2025.md",
+                "file": "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Ch 2. AI의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SECON 2025, eGISEC 2025 의 백링크"
+              "title": "Ch 2. AI의 이해 의 백링크"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. tmp/SECON 2025, eGISEC 2025.md",
+                "file": "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Ch 2. AI의 이해.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SECON 2025, eGISEC 2025 의 개요"
+              "title": "Ch 2. AI의 이해 의 개요"
             }
           },
           {
@@ -192,17 +192,20 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cfad23e339ff034b",
   "lastOpenFiles": [
-    "1. daily/2025-03-19.md",
-    "0. tmp/SECON 2025, eGISEC 2025.md",
-    "1. daily/2025-03-18.md",
+    "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Pasted image 20250519162205.png",
+    "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Ch 3..md",
     "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Ch 2. AI의 이해.md",
-    "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/무제.md",
+    "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Pasted image 20250519163701.png",
+    "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1/Pasted image 20250519163542.png",
+    "0. tmp/SECON 2025, eGISEC 2025.md",
+    "1. daily/2025-03-19.md",
+    "1. daily/2025-03-18.md",
     "-1. template/YYYY-MM-DD.md",
     "4. study/무제.md",
     "4. study/AI 시대, PM, PO를 위한 한 번에 끝내는 AI 서비스 기획 실무/Part 1",
